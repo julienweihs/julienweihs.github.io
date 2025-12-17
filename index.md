@@ -15,8 +15,8 @@ In my research, I develop methods to quantify characteristics of knowledge and u
 ## Research
 ### Selected Presentations
 #### 2025
-- *Concept maps for teaching and learning, a network-based perspective on understanding and knowledge*, **GFI annual meeting**, Os (NO)
-- *A network-based perspective on understanding and knowledge in STEM: implications for research and teaching*, **SERG seminar**, Bergen (NO)
+- *Concept maps for teaching and learning, a network-based perspective on understanding and knowledge*, **GFI** annual meeting, Os (NO)
+- *A network-based perspective on understanding and knowledge in STEM: implications for research and teaching*, **SERG** seminar, Bergen (NO)
 - *Applying network analysis to expert conceptualisations of Type-2 Diabetes: investigating knowledge structures in medical science with a pilot study*, **ESERA**, Copenhagen (DK)
 - *Improving students’ programming skills through Collaborative Scientific Python*, **MNT**, Trondheim (NO)
 - *Quantifying expertise, identifying misconceptions and other results from graph analysis in educational research*, **NERA**, Helsinki (FI)
@@ -24,35 +24,35 @@ In my research, I develop methods to quantify characteristics of knowledge and u
 - *What does the research say? ​Effective strategies for teaching and learning in geosciences*​, **iEarth GeoLearning Forum**, Tromsø (NO) (with M. Weurlander, C. Faber, R. Horota & K. Dunnett)
 - *Researching and developing geoscience education in Norway: iEarth as a national centre to improve teaching and learning*, **Samtal@SU Geoscience**, Stockholm (SE) (with K. Dunnett & C. Faber)
 - *Exploring cloud physics with graph theory*, **ECER**, Nicosia (CY)
-- *Exploring cloud physics through graph theory*, **ETHZ Atmospheric Physics meeting**, Zürich (CH)
-- *Exploring cloud physics through graph theory* (in french), **ARDiST colloquium**, Montpellier (FR)
-- *Exploring cloud physics through graph theory*, **KUPER meeting**, Copenhagen (DK)
+- *Exploring cloud physics through graph theory*, **ETHZ Atmospheric Physics** group meeting, Zürich (CH)
+- *Exploring cloud physics through graph theory* (in french), **ARDiST** colloquium, Montpellier (FR)
+- *Exploring cloud physics through graph theory*, **KUPER** group meeting, Copenhagen (DK)
 #### 2023
-- *Web of geophysical knowledge*, **CHESS annual meeting**, Oslo (NO)
+- *Web of geophysical knowledge*, **CHESS** annual meeting, Oslo (NO)
 - *Representing and analysing the conceptual understanding of cloud physics*, **ESERA**, Cappadocia (TR)
 - *Supporting student Python fluency using git-based solutions*, **UoE Geoscience Education Day**, Edinburgh (UK)
 - *Enhancing the sense of belonging at a Norwegian faculty of natural sciences*, **UiB Læringskonferanse**, Bergen (NO)
 #### 2022
-- *Science session: Cryosphere and sea level* (chair), **CHESS annual meeting**, Tromsø (NO)
+- *Science session: Cryosphere and sea level* (chair), **CHESS** annual meeting, Tromsø (NO)
 - *Cloud physics, a framework for studying, instruction and analysis*, **AAPT-PERC**, Grand Rapids (USA)
 #### 2019
-- *Ice-ice collisions and wave energy dissipation in the marginal ice zone*, **AOCEC meeting**, St. John's (CA)
+- *Ice-ice collisions and wave energy dissipation in the marginal ice zone*, **AOCEC** group meeting, St. John's (CA)
 
 ### Selected Posters
 #### 2025
 - *What does Science mean? Geoscientists' associations with Science*, **iEarth GeoLearning Forum**, Bergen (NO)
-- *What does Science mean? Climate experts' associations with Science*, **BCCR annual meeting**, Bergen (NO)
+- *What does Science mean? Climate experts' associations with Science*, **BCCR** annual meeting, Bergen (NO)
 - *Representing and analysing expert knowledge in climate science: a method to quantify expertise and understanding using graph theory*, **Arctic Frontiers**, Tromsø (NO)
 #### 2024
 - *Improving the students' programming skills through collaborative scientific python*, **UiB Læringskonferanse**, Bergen (NO)
-- *Exploring climate science through graph theory*, **BCCR annual meeting**, Bergen (NO)
+- *Exploring climate science through graph theory*, **BCCR** annual meeting, Bergen (NO)
 #### 2023
 - *Exploring cloud physics through graph theory*, **ESERA Summerschool**, Tartu (EE), 2024
 #### 2022
-- *Levels of understanding of students in cloud microphysics*, **CHESS annual meeting**, Tromsø (NO), 2022
+- *Levels of understanding of students in cloud microphysics*, **CHESS** annual meeting, Tromsø (NO), 2022
 - *Students' conceptual understanding in cloud microphysics: a concept map for studying, instruction and analysis*, **AAPT-PERC**, Grand Rapids (USA), 2022
 #### 2021
-- *Knowledge transfer of mathematical concepts for geophysics students*, **CHESS annual meeting**, Bergen (NO)
+- *Knowledge transfer of mathematical concepts for geophysics students*, **CHESS** annual meeting, Bergen (NO)
 
 ### Selected Symposiums
 #### 2025
@@ -68,7 +68,13 @@ In my research, I develop methods to quantify characteristics of knowledge and u
 ## Outreach
 
 #### 2025
-- #CoCreatinGFI postcards
+- 5x educational postcards (*Influence of fatigue on learning*, *Mathematics anxiety*, *Concept mapping*, *Map of cloud physics*, *Learning machine learning*), **#CoCreatingGFI** outreach, Bergen (NO)
+- *What graph theory can teach us about learning: the case of Cloud Physics*, **GFI** teachers meeting, Bergen (NO)
+#### 2023
+- *An all-in-one framework to support student Python fluency at GFI with Jupyter notebooks*, **GFI** teachers meeting, Bergen (NO)(with V. Dundas)
+- *A small glacier model to talk about friction, dynamics and climate change*, Interactive science station at the **Ice Music Festival**, Ål (NO)
+#### 2020
+- *Global climate changes and local consequences on Longyearbyen, Svalbard* (in french), **Leysin en Transition summer conferences**, Leysin (CH)
 
 ## Education
 **PhD**, Field — University — Year–Year  
