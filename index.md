@@ -12,7 +12,33 @@ Email: julien-pooya.weihs@uib.no
 
 In my research, I develop methods to quantify characteristics of knowledge and understanding: I transform learners' explanations about a topic into mathematical objects using natural language processing, and analyse the mentioned concepts and the relationships between them using network analysis.
 
-## Research
+# Research
+
+## Publications
+  **Weihs, J.-P.**, Euler, E., Gjerde, V., & Drange, H. (2025). Exploration of Troublesome and Threshold Concepts in Cloud Microphysics. _Journal of Geoscience Education_. https://doi.org/10.1080/10899995.2024.2446022 
+
+  **Weihs, J.-P.**, & Drange, H. (2025). Représenter et analyser la compréhension conceptuelle de la physique des nuages à l'aide de la théorie des graphes. In V. Munier & M Bächtold (Eds.), _Actes des XIIIe Rencontres scientifiques de l'ARDIST_, 4-7 juin 2024, Montpellier (p. 97-112). Éditions de l'ARDIST. https://ardist2024.sciencesconf.org/data/pages/Actes_13e_Rencontres_ARDiST.pdf
+
+  **Weihs, J.-P.** & Lid, D.O. (2025). Improving students’ programming skills through Collaborative Scientific Python. In R. Lyng & S. Cotner (Eds.), _Conference proceedings - MNT-konferansen 2025_. Nordic Journal of STEM Education. 9(2): 383-390. https://doi.org/10.5324/njsteme.v9i2.6403.
+
+  **Weihs, J-P.**, Weihs, A., Gjerde, V., & Drange, H. (in review) _Unsupervised and semi-supervised clustering methods to identify and refine participant experience levels in educational research_. https://arxiv.org/abs/2411.06479 (preprint)
+
+  **Weihs, J.-P.**, Gjerde, V., & Drange, H. (in review). _From Novice to Expert in Cloud Physics: a Graph-Based Analysis of Learner Conceptual Understanding_. https://arxiv.org/abs/2411.06479 (preprint)
+
+### Manuscripts in preparation
+
+### Unpublished work
+
+
+
+## Projects
+
+[iEarth](https://www.iearth.no/): Centre for Integrated Earth Science Education
+
+[CoCreatingGFI](https://cocreatinggfi.w.uib.no/): Co-creation to promote active learning and communities of practice
+
+# Scientific Communication
+## Inreach 
 ### Selected Presentations
 #### 2025
 - _Concept maps for teaching and learning, a network-based perspective on understanding and knowledge_, **GFI** annual meeting, Os (NO)
@@ -121,6 +147,3 @@ _ESERA_, 6x oral presentations, 3x symposia
 **Role**, Institution — Year–Year  
 - One achievement
 - Another achievement
-
-## Publications
-- Author, A., **Weihs, J.-P.**, … *Title*. Journal, Year. DOI: …
