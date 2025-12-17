@@ -1,8 +1,3 @@
----
-layout: default
-title: "Julien-Pooya Weihs — CV"
----
-
 # Julien-Pooya Weihs
 
 **Researcher, Geoscience Education**  
