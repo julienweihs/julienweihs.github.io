@@ -25,7 +25,7 @@ In my research, I develop methods to quantify characteristics of knowledge and u
 
   **Weihs, J.-P.**, Gjerde, V., & Drange, H. (in review). _From Novice to Expert in Cloud Physics: a Graph-Based Analysis of Learner Conceptual Understanding_. https://arxiv.org/abs/2411.06479 (preprint)
   
-  Gya, R., Boge, C., Dahl, T., Bergstrøm-Hansen, N., Førland, O., Holtermann, K., Stabell, E., **Weihs, J.-P.**, et al. (submitted). _From student involvement to students-as-partners – evidence from nine Norwegian Centres for Excellence in Education_
+  Gya, R., Boge, C., Dahl, T., Bergstrøm-Hansen, N., Førland, O., Holtermann, K., Stabell, E., **Weihs, J.-P.**, et al. (submitted). _From student involvement to students-as-partners – evidence from nine Norwegian Centres for Excellence in Education_.
 
 ### Manuscripts in preparation
 
