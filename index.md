@@ -24,12 +24,26 @@ In my research, I develop methods to quantify characteristics of knowledge and u
   **Weihs, J-P.**, Weihs, A., Gjerde, V., & Drange, H. (in review) _Unsupervised and semi-supervised clustering methods to identify and refine participant experience levels in educational research_. https://arxiv.org/abs/2411.06479 (preprint)
 
   **Weihs, J.-P.**, Gjerde, V., & Drange, H. (in review). _From Novice to Expert in Cloud Physics: a Graph-Based Analysis of Learner Conceptual Understanding_. https://arxiv.org/abs/2411.06479 (preprint)
+  
+  Gya, R., Boge, C., Dahl, T., Bergstrøm-Hansen, N., Førland, O., Holtermann, K., Stabell, E., **Weihs, J.-P.**, et al. (submitted). _From student involvement to students-as-partners – evidence from nine Norwegian Centres for Excellence in Education_
 
 ### Manuscripts in preparation
 
+ **Weihs, J.-P.**, Gjerde, V., & Drange, H. _Identifying Misconceptions and Tailoring Learning Recommendations using Graph Theory_.
+ 
+ **Weihs, J.-P.**, & Sherbetjian, S. _3D visualisations of complex graph networks on a web platform_.
+ 
+ **Weihs, J.-P.**, Dunnett, K., Horota, R., Faber, C., & Weurlander, M. _Effective Teaching and Learning Strategies in Geosciences_.
+ 
+ **Weihs, J.-P.**, Tywoniuk, K., Valero-Rodiguez, J.M., & Bettencourt, J.P.H. _'I will survive': Enhancing the Sense of Belonging in Academic Communities_.
+ 
+ **Weihs, J.-P.** _Ethics of Sustainability in a Geoscience Field-Based Course_.
+ 
+ Ramesh, H., **Weihs, J.-P.**, & Madan, G. _'Blown away': Impact of Zonal Winds Changes on Agricultural Yield Forecasts_.
+
 ### Unpublished work
 
-
+ **Weihs, J.-P.** (2019). _Interaction of surface waves with sea-ice in the marginal ice zone_. NTNU. https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2634446/no.ntnu:inspera:43157182:37763738.pdf (Master's thesis)
 
 ## Projects
 
