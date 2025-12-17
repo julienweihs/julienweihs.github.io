@@ -29,13 +29,13 @@ In my research, I develop methods to quantify characteristics of knowledge and u
 - *Exploring cloud physics through graph theory* (in french), **ARDiST** colloquium, Montpellier (FR)
 - *Exploring cloud physics through graph theory*, **KUPER** group meeting, Copenhagen (DK)
 
-**2023**
+#### 2023
 - *Web of geophysical knowledge*, **CHESS** annual meeting, Oslo (NO)
 - *Representing and analysing the conceptual understanding of cloud physics*, **ESERA**, Cappadocia (TR)
 - *Supporting student Python fluency using git-based solutions*, **UoE Geoscience Education Day**, Edinburgh (UK)
 - *Enhancing the sense of belonging at a Norwegian faculty of natural sciences*, **UiB Læringskonferanse**, Bergen (NO)
 
-**2022**
+#### 2022
 - *Science session: Cryosphere and sea level* (chair), **CHESS** annual meeting, Tromsø (NO)
 - *Cloud physics, a framework for studying, instruction and analysis*, **AAPT-PERC**, Grand Rapids (USA)
 
@@ -94,6 +94,7 @@ In my research, I develop methods to quantify characteristics of knowledge and u
 ### Supervision
 
 ### Instruction
+
 ### Workshop
 
 ## Education
