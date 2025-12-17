@@ -83,7 +83,7 @@ In my research, I develop methods to quantify characteristics of knowledge and u
 - *What graph theory can teach us about learning: the case of Cloud Physics*, **GFI** teachers meeting, Bergen (NO)
 
 #### 2023
-- *An all-in-one framework to support student Python fluency at GFI with Jupyter notebooks*, **GFI** teachers meeting, Bergen (NO)(with V. Dundas)
+- *An all-in-one framework to support student Python fluency at GFI with Jupyter notebooks*, **GFI** teachers meeting, Bergen (NO) (with V. Dundas)
 - *A small glacier model to talk about friction, dynamics and climate change*, Interactive science station at the **Ice Music Festival**, Ål (NO)
 
 #### 2020
