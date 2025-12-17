@@ -4,12 +4,13 @@
 Geophysical Institute, University of Bergen, Norway
 
 Email: julien-pooya.weihs@uib.no
+[GoogleScholar](https://scholar.google.com/citations?hl=no&user=trPIQRYAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Julien-Pooya-Weihs)
 
 In my research, I develop methods to quantify characteristics of knowledge and understanding: I transform learners' explanations about a topic into mathematical objects using natural language processing, and analyse the mentioned concepts and the relationships between them using network analysis.
 
 ---
 
-# Research
+# Research <font size="1">(Publications, Projects)</font>
 
 ## Publications
 **Weihs, J.-P.**, Euler, E., Gjerde, V., & Drange, H. (2025). Exploration of Troublesome and Threshold Concepts in Cloud Microphysics. _Journal of Geoscience Education_. https://doi.org/10.1080/10899995.2024.2446022 
@@ -50,7 +51,7 @@ Ramesh, H., **Weihs, J.-P.**, & Madan, G. _'Blown away': Impact of Zonal Winds C
 
 ---
 
-# Scientific Communication
+# Scientific Communication <font size="1">(Inreach, Outreach, Teaching)</font>
 ## Inreach 
 ### Selected Presentations
 #### 2025
@@ -152,6 +153,7 @@ _ESERA_, 6x oral presentations, 3x symposia
 
 - _The influence of fatigue on learning_, roundtable discussion moderation at the **iEarth GeoLearning Forum**, Bergen (NO)
 
+<!--
 ## Education
 **PhD**, Field — University — Year–Year  
 **MSc**, Field — University — Year–Year
@@ -160,3 +162,4 @@ _ESERA_, 6x oral presentations, 3x symposia
 **Role**, Institution — Year–Year  
 - One achievement
 - Another achievement
+-->
