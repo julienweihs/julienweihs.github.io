@@ -13,7 +13,7 @@ In my research, I develop methods to quantify characteristics of knowledge and u
 
 # Research <font size="3">(Publications, Projects)</font>
 
-## Publications
+## 1. Publications
 **Weihs, J.-P.**, Euler, E., Gjerde, V., & Drange, H. (2025). Exploration of Troublesome and Threshold Concepts in Cloud Microphysics. _Journal of Geoscience Education_. https://doi.org/10.1080/10899995.2024.2446022 
 
 **Weihs, J.-P.**, & Drange, H. (2025). Représenter et analyser la compréhension conceptuelle de la physique des nuages à l'aide de la théorie des graphes. In V. Munier & M Bächtold (Eds.), _Actes des XIIIe Rencontres scientifiques de l'ARDIST_, 4-7 juin 2024, Montpellier (p. 97-112). Éditions de l'ARDIST. https://ardist2024.sciencesconf.org/data/pages/Actes_13e_Rencontres_ARDiST.pdf
@@ -44,7 +44,7 @@ Ramesh, H., **Weihs, J.-P.**, & Madan, G. _'Blown away': Impact of Zonal Winds C
 
 **Weihs, J.-P.** (2019). _Interaction of surface waves with sea-ice in the marginal ice zone_. NTNU. https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2634446/no.ntnu:inspera:43157182:37763738.pdf (Master's thesis)
 
-## Projects
+## 2. Projects
 
 [iEarth](https://www.iearth.no/): Centre for Integrated Earth Science Education
 
@@ -53,7 +53,7 @@ Ramesh, H., **Weihs, J.-P.**, & Madan, G. _'Blown away': Impact of Zonal Winds C
 ---
 
 # Scientific Communication <font size="3">(Inreach, Outreach, Teaching)</font>
-## Inreach 
+## 1. Inreach 
 ### Selected Presentations
 #### 2025
 - _Concept maps for teaching and learning, a network-based perspective on understanding and knowledge_, **GFI** annual meeting, Os (NO)
@@ -117,7 +117,7 @@ Ramesh, H., **Weihs, J.-P.**, & Madan, G. _'Blown away': Impact of Zonal Winds C
 #### Since 2023
 _ESERA_, 6x oral presentations, 3x symposia
 
-## Outreach
+## 2. Outreach
 
 #### 2025
 - 5x educational postcards (_Influence of fatigue on learning_, _Mathematics anxiety_, _Concept mapping_, _Map of cloud physics_, _Learning machine learning_), **#CoCreatingGFI** outreach, Bergen (NO)
@@ -130,7 +130,7 @@ _ESERA_, 6x oral presentations, 3x symposia
 #### 2020
 - _Global climate changes and local consequences on Longyearbyen, Svalbard_ (in french), **Leysin en Transition summer conferences**, Leysin (CH)
 
-## Teaching
+## 3. Teaching
 
 ### Supervision
 
