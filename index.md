@@ -3,7 +3,6 @@ layout: about
 permalink: /
 profile:
   align: center
-  image: profile.png
 published: true
 ---
 
@@ -15,14 +14,6 @@ Geophysical Institute, University of Bergen, Norway
 Email: julien-pooya.weihs@uib.no
 
 [GoogleScholar](https://scholar.google.com/citations?hl=no&user=trPIQRYAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Julien-Pooya-Weihs)
-
-<div class="section-links">
-<a class="pill-link" href="{{ "/science/" | relative_url }}">Science</a>
-<a class="pill-link" href="{{ "/music/" | relative_url }}">Music</a>
-<a class="pill-link" href="{{ "/sports/" | relative_url }}">Mountain sports</a>
-<a class="pill-link" href="{{ "/projects/" | relative_url }}">Projects</a>
-<a class="pill-link" href="{{ "/cv/" | relative_url }}">CV</a>
-</div>
 
 In my research, I develop methods to quantify characteristics of knowledge and understanding: I transform learners' explanations about a topic into mathematical objects using natural language processing, and analyse the mentioned concepts and the relationships between them using network analysis.
 
