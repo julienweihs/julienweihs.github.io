@@ -4,4 +4,4 @@ title: Science
 permalink: /science/
 ---
 
-Put science content here (projects, notes, publications, etc).
+Notes on research ideas, publications, and experiments will collect here. I keep short writeups, links to talks, and pointers to ongoing collaborations in this space.

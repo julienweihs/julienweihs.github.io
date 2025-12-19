@@ -4,4 +4,4 @@ title: Music
 permalink: /music/
 ---
 
-Concert programs, recordings, ensembles, etc.
+Concert programmes, recordings, ensembles, and other musical work will live here. I use this page to collect set lists, rehearsal notes, and links to new releases or performances.

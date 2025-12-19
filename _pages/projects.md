@@ -5,6 +5,8 @@ permalink: /projects/
 published: true
 ---
 
+<p class="project-intro">A quick overview of projects, prototypes, and collaborations. Each tile opens a short write-up or an external link.</p>
+
 
 <div class="ProjectContainer">
 

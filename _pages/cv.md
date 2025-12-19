@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-- [Download my CV (PDF)](/assets/files/cv.pdf)
+A refreshed CV PDF will be linked here once uploaded. In the meantime, the sections around the site capture current projects and highlights.

@@ -1,0 +1,23 @@
+current directory: /Users/Julien-Pooya/Library/CloudStorage/OneDrive-UniversityofBergen/Documents/GitHub/julienweihs.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/Users/Julien-Pooya/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/Julien-Pooya/Library/CloudStorage/OneDrive-UniversityofBergen/Documents/GitHub/julienweihs.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20251219-14583-hxjthm sitelibdir\=./.gem.20251219-14583-hxjthm clean
+
+current directory: /Users/Julien-Pooya/Library/CloudStorage/OneDrive-UniversityofBergen/Documents/GitHub/julienweihs.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20251219-14583-hxjthm sitelibdir\=./.gem.20251219-14583-hxjthm
+compiling ruby_http_parser.c
+ruby_http_parser.c:365:17: warning: comparison of integers of different signs: 'size_t' (aka 'unsigned long') and 'long' [-Wsign-compare]
+  365 |     if (nparsed < len)
+      |         ~~~~~~~ ^ ~~~
+1 warning generated.
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/Julien-Pooya/Library/CloudStorage/OneDrive-UniversityofBergen/Documents/GitHub/julienweihs.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20251219-14583-hxjthm sitelibdir\=./.gem.20251219-14583-hxjthm install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20251219-14583-hxjthm
+
+current directory: /Users/Julien-Pooya/Library/CloudStorage/OneDrive-UniversityofBergen/Documents/GitHub/julienweihs.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20251219-14583-hxjthm sitelibdir\=./.gem.20251219-14583-hxjthm clean

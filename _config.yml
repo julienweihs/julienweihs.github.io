@@ -1,11 +1,9 @@
-### your site title here
-
 title: Julien-Pooya Weihs
-description: subtitle | affiliations | motto
+description: Science | Music | Mountain sports
 
-baseurl: "/"" #name of GitHub repository
-url: "https://julienweihs.github.io" #custom url to be used instead of GitHub repository
-email: #
+baseurl: "" # leave empty for user/organization GitHub Pages
+url: "https://julienweihs.github.io" # custom url to be used instead of GitHub repository
+email: ""
 
 # Pagination
 paginate: 4
@@ -13,14 +11,14 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
+linkedin: ""
+stackoverflow: ""
+github: "https://github.com/julienweihs"
 researchgate: "https://www.researchgate.net/profile/Julien-Pooya-Weihs"
-orcid: "#"
-quora: "#"
-instagram: "#"
-bluesky: "#"
+orcid: ""
+quora: ""
+instagram: ""
+bluesky: ""
 
 # Header pages
 header_pages:
@@ -28,6 +26,7 @@ header_pages:
 - _pages/music.md
 - _pages/sports.md
 - _pages/cv.md
+- _pages/projects.md
 
 
 # Markdown
@@ -62,7 +61,7 @@ collections:
       - project6.md
 
 sass:
-  sass_dir: /assets/css/_sass
+  sass_dir: assets/css/_sass
   style: compressed
 
 include:

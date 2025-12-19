@@ -1,0 +1,18 @@
+current directory: /Users/Julien-Pooya/Library/CloudStorage/OneDrive-UniversityofBergen/Documents/GitHub/julienweihs.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/Julien-Pooya/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/Julien-Pooya/Library/CloudStorage/OneDrive-UniversityofBergen/Documents/GitHub/julienweihs.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251219-14583-bzgmk4 sitelibdir\=./.gem.20251219-14583-bzgmk4 clean
+
+current directory: /Users/Julien-Pooya/Library/CloudStorage/OneDrive-UniversityofBergen/Documents/GitHub/julienweihs.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251219-14583-bzgmk4 sitelibdir\=./.gem.20251219-14583-bzgmk4
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/Julien-Pooya/Library/CloudStorage/OneDrive-UniversityofBergen/Documents/GitHub/julienweihs.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251219-14583-bzgmk4 sitelibdir\=./.gem.20251219-14583-bzgmk4 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20251219-14583-bzgmk4/racc
+
+current directory: /Users/Julien-Pooya/Library/CloudStorage/OneDrive-UniversityofBergen/Documents/GitHub/julienweihs.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251219-14583-bzgmk4 sitelibdir\=./.gem.20251219-14583-bzgmk4 clean
