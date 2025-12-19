@@ -11,7 +11,7 @@ In my research, I develop methods to quantify characteristics of knowledge and u
 
 ---
 
-# Research <font size="1">(Publications, Projects)</font>
+# Research <font size="3">(Publications, Projects)</font>
 
 ## Publications
 **Weihs, J.-P.**, Euler, E., Gjerde, V., & Drange, H. (2025). Exploration of Troublesome and Threshold Concepts in Cloud Microphysics. _Journal of Geoscience Education_. https://doi.org/10.1080/10899995.2024.2446022 
@@ -52,7 +52,7 @@ Ramesh, H., **Weihs, J.-P.**, & Madan, G. _'Blown away': Impact of Zonal Winds C
 
 ---
 
-# Scientific Communication <font size="1">(Inreach, Outreach, Teaching)</font>
+# Scientific Communication <font size="3">(Inreach, Outreach, Teaching)</font>
 ## Inreach 
 ### Selected Presentations
 #### 2025
