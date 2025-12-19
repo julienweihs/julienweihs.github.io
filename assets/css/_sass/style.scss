@@ -18,6 +18,18 @@ body {
     background-color: $body-bg-dark;
     color: $text-color-dark;
   }
+
+  &[data-theme="light"] {
+    color-scheme: light;
+    background-color: $body-bg;
+    color: $text-color;
+  }
+
+  &[data-theme="dark"] {
+    color-scheme: dark;
+    background-color: $body-bg-dark;
+    color: $text-color-dark;
+  }
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -39,6 +51,62 @@ a {
       color: $text-color-dark;
     }
 
+  }
+}
+
+body[data-theme="dark"] a {
+  color: lighten($brand-color, 10%);
+
+  &:hover {
+    color: $text-color-dark;
+  }
+}
+
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  margin-left: 1em;
+  padding: 0.4em 0.9em;
+  border: 1px solid lighten($brand-color, 5%);
+  border-radius: 999px;
+  background: transparent;
+  color: inherit;
+  font-size: 0.9em;
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    background: lighten($brand-color, 40%);
+    border-color: $brand-color;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $brand-color;
+    outline-offset: 2px;
+  }
+}
+
+.section-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75em;
+  margin: 1.5em 0;
+}
+
+.pill-link {
+  display: inline-block;
+  padding: 0.35em 0.9em;
+  border-radius: 999px;
+  border: 1px solid lighten($brand-color, 10%);
+  background: transparent;
+  color: inherit;
+  font-weight: 600;
+  transition: background 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    background: lighten($brand-color, 42%);
+    border-color: $brand-color;
   }
 }
 
@@ -198,5 +266,4 @@ blockquote {
 .article-list {
   margin: 1em 0;
 }
-
 

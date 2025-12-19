@@ -47,6 +47,47 @@
 
         {% include analytics.html %}
 
+        <script>
+          (function() {
+            const storageKey = 'gradfolio-theme';
+            const toggle = document.getElementById('theme-toggle');
+
+            function applyTheme(mode) {
+              if (mode === 'light') {
+                document.body.setAttribute('data-theme', 'light');
+                if (toggle) toggle.textContent = 'Light';
+              } else if (mode === 'dark') {
+                document.body.setAttribute('data-theme', 'dark');
+                if (toggle) toggle.textContent = 'Dark';
+              } else {
+                document.body.removeAttribute('data-theme');
+                if (toggle) toggle.textContent = 'System';
+                mode = 'system';
+              }
+              localStorage.setItem(storageKey, mode);
+            }
+
+            function initTheme() {
+              const saved = localStorage.getItem(storageKey);
+              if (saved === 'light' || saved === 'dark') {
+                applyTheme(saved);
+              } else {
+                applyTheme('system');
+              }
+            }
+
+            initTheme();
+
+            if (toggle) {
+              toggle.addEventListener('click', function() {
+                const current = localStorage.getItem(storageKey) || 'system';
+                const next = current === 'system' ? 'dark' : current === 'dark' ? 'light' : 'system';
+                applyTheme(next);
+              });
+            }
+          })();
+        </script>
+
     </body>
 
 </html>

@@ -13,8 +13,8 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 linkedin: ""
 stackoverflow: ""
-github: "https://github.com/julienweihs"
-researchgate: "https://www.researchgate.net/profile/Julien-Pooya-Weihs"
+github: "julienweihs"
+researchgate: "Julien-Pooya-Weihs"
 orcid: ""
 quora: ""
 instagram: ""
