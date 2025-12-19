@@ -2,12 +2,16 @@ html, body {
   height: 100%;
 }
 
+:root {
+  --base-font-size: #{$base-font-size};
+}
+
 body {
   max-width: $content-width;
   font-family: $base-font-family;
   margin: 0 auto;
   line-height: $base-line-height;
-  font-size: $base-font-size;
+  font-size: var(--base-font-size, #{$base-font-size});
   color: $text-color;
   background-color: $body-bg;
   padding: 2em 1em;
@@ -78,6 +82,34 @@ body[data-theme="dark"] a {
 
   &:hover {
     background: lighten($brand-color, 40%);
+    border-color: $brand-color;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $brand-color;
+    outline-offset: 2px;
+  }
+}
+
+.zoom-controls {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  margin-left: 0.75em;
+}
+
+.zoom-btn {
+  border: 1px solid lighten($brand-color, 5%);
+  background: transparent;
+  color: inherit;
+  border-radius: 6px;
+  padding: 0.3em 0.6em;
+  cursor: pointer;
+  font-size: 0.85em;
+  transition: background 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    background: lighten($brand-color, 42%);
     border-color: $brand-color;
   }
 
@@ -266,4 +298,3 @@ blockquote {
 .article-list {
   margin: 1em 0;
 }
-

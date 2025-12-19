@@ -85,6 +85,38 @@
                 applyTheme(next);
               });
             }
+
+            // Font zoom controls
+            const fontKey = 'gradfolio-font-size';
+            const defaultSize = parseInt(getComputedStyle(document.documentElement).getPropertyValue('--base-font-size')) || 20;
+            const zoomIn = document.getElementById('zoom-in');
+            const zoomOut = document.getElementById('zoom-out');
+            const zoomReset = document.getElementById('zoom-reset');
+
+            function setFontSize(sizePx) {
+              const clamped = Math.max(14, Math.min(26, sizePx));
+              document.documentElement.style.setProperty('--base-font-size', clamped + 'px');
+              localStorage.setItem(fontKey, clamped);
+            }
+
+            (function initFont() {
+              const saved = parseInt(localStorage.getItem(fontKey), 10);
+              if (saved) {
+                setFontSize(saved);
+              }
+            })();
+
+            if (zoomIn) zoomIn.addEventListener('click', () => {
+              const current = parseInt(getComputedStyle(document.documentElement).getPropertyValue('--base-font-size'), 10) || defaultSize;
+              setFontSize(current + 1);
+            });
+
+            if (zoomOut) zoomOut.addEventListener('click', () => {
+              const current = parseInt(getComputedStyle(document.documentElement).getPropertyValue('--base-font-size'), 10) || defaultSize;
+              setFontSize(current - 1);
+            });
+
+            if (zoomReset) zoomReset.addEventListener('click', () => setFontSize(defaultSize));
           })();
         </script>
 
