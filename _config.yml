@@ -1,10 +1,10 @@
 ### your site title here
 
-title: Your Name
+title: Julien-Pooya Weihs
 description: subtitle | affiliations | motto
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl: "/"" #name of GitHub repository
+url: "https://julienweihs.github.io" #custom url to be used instead of GitHub repository
 email: #
 
 # Pagination
@@ -16,12 +16,19 @@ paginate_path: /blog/page:num/
 linkedin: "#"
 stackoverflow: "#"
 github: "#"
-researchgate: "#"
+researchgate: "https://www.researchgate.net/profile/Julien-Pooya-Weihs"
 orcid: "#"
 quora: "#"
 instagram: "#"
-facebook: "#"
 bluesky: "#"
+
+# Header pages
+header_pages:
+- _pages/science.md
+- _pages/music.md
+- _pages/sports.md
+- _pages/cv.md
+
 
 # Markdown
 highlighter: rouge
