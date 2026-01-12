@@ -19,7 +19,7 @@ In my research, I develop methods to quantify characteristics of knowledge and u
 
 ---
 
-# I. Research (Publications, Projects)
+# 1. Research (Publications, Projects)
 
 ## Publications
 **Weihs, J.-P.**, Euler, E., Gjerde, V., & Drange, H. (2025). Exploration of Troublesome and Threshold Concepts in Cloud Microphysics. _Journal of Geoscience Education_. [Link](https://doi.org/10.1080/10899995.2024.2446022) 
@@ -60,7 +60,7 @@ Ramesh, H., **Weihs, J.-P.**, & Madan, G. _'Blown away': Impact of Zonal Winds C
 
 ---
 
-# II. Scientific Communication (Presentations, Posters, Outreach, Teaching)
+# 2. Scientific Communication (Presentations, Posters, Outreach, Teaching)
  
 ## Selected Presentations
 #### 2025
@@ -111,33 +111,6 @@ Ramesh, H., **Weihs, J.-P.**, & Madan, G. _'Blown away': Impact of Zonal Winds C
 #### 2021
 - _Knowledge transfer of mathematical concepts for geophysics students_, **CHESS** annual meeting, Bergen (NO)
 
-## Academic Service
-
-### Selected Symposiums
-
-#### 2025
-- _Network analysis in science education research: analysing opinions, concepts and representations to inform learning and instruction_ (chair), **ESERA**, Copenhagen (DK) (with O. Marshall, C. Thurn, S. Wagner & M. Turkkila)
-
-### Invited Peer Reviews
-
-#### 2024
-- _Nordic Journal of STEM Education_, 1x manuscript, 2024
-- Textbook on _Cloud Physics_, 3x chapters (_Atmospheric Radiations_, _Thermodynamics_, _Warm Clouds Microphysics_)
-
-#### Since 2023
-_ESERA_, 6x oral presentations, 3x symposia
-
-### Scientific Acknowledgements
-
-#### 2026
-Proske, U. & Staab, M. (in review). _Hello world! Teaching an interdisciplinary understanding of climate modelling._ [Link](https://doi.org/10.5194/egusphere-2025-6313) (preprint) (for feedback on educational research)
-
-#### 2025
-Årvik, A. & Thielemann Try, T. (2025). Study techniques in Student Handbook of the Geophysical Institute (in Norwegian). CoCreatingGFI. [Link](https://cocreatinggfi.w.uib.no/studenthandboka/) (for contribution to learning recommendations)
-
-#### 2023
-Hartz, W. et al. (2023). Levels and distribution profiles of Per-and Polyfluoroalkyl Substances (PFAS) in a high Arctic Svalbard ice core. _Science of the total environment_. [Link](https://doi.org/10.1016/j.scitotenv.2023.161830) (for contribution to data collection)
-
 ## Outreach
 
 #### 2025
@@ -174,6 +147,35 @@ Hartz, W. et al. (2023). Levels and distribution profiles of Per-and Polyfluoroa
 - _How can we increase the sense of belonging at our institute?_, 2-days concept-mapping and think-pair-share workshop sessions with faculty and staff at the Geophysical Institute, **University of Bergen**
 
 - _The influence of fatigue on learning_, roundtable discussion moderation at the **iEarth GeoLearning Forum**, Bergen (NO)
+
+---
+
+# 3. Academic Service
+
+## Selected Symposiums
+
+#### 2025
+- _Network analysis in science education research: analysing opinions, concepts and representations to inform learning and instruction_ (chair), **ESERA**, Copenhagen (DK) (with O. Marshall, C. Thurn, S. Wagner & M. Turkkila)
+
+## Invited Peer Reviews
+
+#### 2024
+- _Nordic Journal of STEM Education_, 1x manuscript, 2024
+- Textbook on _Cloud Physics_, 3x chapters (_Atmospheric Radiations_, _Thermodynamics_, _Warm Clouds Microphysics_)
+
+#### Since 2023
+_ESERA_, 6x oral presentations, 3x symposia
+
+## Scientific Acknowledgements
+
+#### 2026
+Proske, U. & Staab, M. (in review). _Hello world! Teaching an interdisciplinary understanding of climate modelling._ [Link](https://doi.org/10.5194/egusphere-2025-6313) (preprint) (for feedback on educational research)
+
+#### 2025
+Årvik, A. & Thielemann Try, T. (2025). Study techniques in Student Handbook of the Geophysical Institute (in Norwegian). CoCreatingGFI. [Link](https://cocreatinggfi.w.uib.no/studenthandboka/) (for contribution to learning recommendations)
+
+#### 2023
+Hartz, W. et al. (2023). Levels and distribution profiles of Per-and Polyfluoroalkyl Substances (PFAS) in a high Arctic Svalbard ice core. _Science of the total environment_. [Link](https://doi.org/10.1016/j.scitotenv.2023.161830) (for contribution to data collection)
 
 <!--
 ## Education
