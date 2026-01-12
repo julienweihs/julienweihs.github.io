@@ -19,9 +19,9 @@ In my research, I develop methods to quantify characteristics of knowledge and u
 
 ---
 
-# I. Research <font size="3">(1. Publications, 2. Projects)</font>
+# I. Research (Publications, Projects)
 
-## 1. Publications
+## Publications
 **Weihs, J.-P.**, Euler, E., Gjerde, V., & Drange, H. (2025). Exploration of Troublesome and Threshold Concepts in Cloud Microphysics. _Journal of Geoscience Education_. [Link](https://doi.org/10.1080/10899995.2024.2446022) 
 
 **Weihs, J.-P.**, & Drange, H. (2025). Représenter et analyser la compréhension conceptuelle de la physique des nuages à l'aide de la théorie des graphes. In V. Munier & M Bächtold (Eds.), _Actes des XIIIe Rencontres scientifiques de l'ARDIST_, 4-7 juin 2024, Montpellier (p. 97-112). Éditions de l'ARDIST. [Link](https://ardist2024.sciencesconf.org/data/pages/Actes_13e_Rencontres_ARDiST.pdf)
@@ -52,7 +52,7 @@ Ramesh, H., **Weihs, J.-P.**, & Madan, G. _'Blown away': Impact of Zonal Winds C
 
 **Weihs, J.-P.** (2019). _Interaction of surface waves with sea-ice in the marginal ice zone_. NTNU. [Link](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2634446/no.ntnu:inspera:43157182:37763738.pdf) (Master's thesis)
 
-## 2. Projects
+## Projects
 
 [iEarth](https://www.iearth.no/): Centre for Integrated Earth Science Education
 
@@ -60,9 +60,9 @@ Ramesh, H., **Weihs, J.-P.**, & Madan, G. _'Blown away': Impact of Zonal Winds C
 
 ---
 
-# II. Scientific Communication <font size="3">(1. Inreach, 2. Outreach, 3. Teaching)</font>
-## 1. Inreach 
-### Selected Presentations
+# II. Scientific Communication (Presentations, Posters, Outreach, Teaching)
+ 
+## Selected Presentations
 #### 2025
 - _Concept maps for teaching and learning, a network-based perspective on understanding and knowledge_, **GFI** annual meeting, Os (NO)
 - _A network-based perspective on understanding and knowledge in STEM: implications for research and teaching_, **SERG** seminar, Bergen (NO)
@@ -75,7 +75,7 @@ Ramesh, H., **Weihs, J.-P.**, & Madan, G. _'Blown away': Impact of Zonal Winds C
 - _Researching and developing geoscience education in Norway: iEarth as a national centre to improve teaching and learning_, **Samtal@SU Geoscience**, Stockholm (SE) (with K. Dunnett & C. Faber)
 - _Exploring cloud physics with graph theory_, **ECER**, Nicosia (CY)
 - _Exploring cloud physics through graph theory_, **ETHZ Atmospheric Physics** group meeting, Zürich (CH)
-- _Exploring cloud physics through graph theory_ (in french), **ARDiST** colloquium, Montpellier (FR)
+- _Exploring cloud physics through graph theory_ (in French), **ARDiST** colloquium, Montpellier (FR)
 - _Exploring cloud physics through graph theory_, **KUPER** group meeting, Copenhagen (DK)
 
 #### 2023
@@ -91,7 +91,7 @@ Ramesh, H., **Weihs, J.-P.**, & Madan, G. _'Blown away': Impact of Zonal Winds C
 #### 2019
 - _Ice-ice collisions and wave energy dissipation in the marginal ice zone_, **AOCEC** group meeting, St. John's (CA)
 
-### Selected Posters
+## Selected Posters
 #### 2025
 - _What does Science mean? Geoscientists' associations with Science_, **iEarth GeoLearning Forum**, Bergen (NO)
 - _What does Science mean? Climate experts' associations with Science_, **BCCR** annual meeting, Bergen (NO)
@@ -111,6 +111,8 @@ Ramesh, H., **Weihs, J.-P.**, & Madan, G. _'Blown away': Impact of Zonal Winds C
 #### 2021
 - _Knowledge transfer of mathematical concepts for geophysics students_, **CHESS** annual meeting, Bergen (NO)
 
+## Academic Service
+
 ### Selected Symposiums
 
 #### 2025
@@ -125,7 +127,18 @@ Ramesh, H., **Weihs, J.-P.**, & Madan, G. _'Blown away': Impact of Zonal Winds C
 #### Since 2023
 _ESERA_, 6x oral presentations, 3x symposia
 
-## 2. Outreach
+### Scientific Acknowledgements
+
+#### 2026
+Proske, U. & Staab, M. (in review). _Hello world! Teaching an interdisciplinary understanding of climate modelling._ [Link](https://doi.org/10.5194/egusphere-2025-6313) (preprint) (for feedback on educational research)
+
+#### 2025
+Årvik, A. & Thielemann Try, T. (2025). Study techniques in Student Handbook of the Geophysical Institute (in Norwegian). CoCreatingGFI. [Link](https://cocreatinggfi.w.uib.no/studenthandboka/) (for contribution to learning recommendations)
+
+#### 2023
+Hartz, W. et al. (2023). Levels and distribution profiles of Per-and Polyfluoroalkyl Substances (PFAS) in a high Arctic Svalbard ice core. _Science of the total environment_. [Link](https://doi.org/10.1016/j.scitotenv.2023.161830) (for contribution to data collection)
+
+## Outreach
 
 #### 2025
 - 5x educational postcards (_Influence of fatigue on learning_, _Mathematics anxiety_, _Concept mapping_, _Map of cloud physics_, _Learning machine learning_), **#CoCreatingGFI** outreach, Bergen (NO)
@@ -136,9 +149,9 @@ _ESERA_, 6x oral presentations, 3x symposia
 - _A small glacier model to talk about friction, dynamics and climate change_, Interactive science station at the **Ice Music Festival**, Ål (NO)
 
 #### 2020
-- _Global climate changes and local consequences on Longyearbyen, Svalbard_ (in french), **Leysin en Transition summer conferences**, Leysin (CH)
+- _Global climate changes and local consequences on Longyearbyen, Svalbard_ (in French), **Leysin en Transition summer conferences**, Leysin (CH)
 
-## 3. Teaching
+## Teaching
 
 ### Supervision
 
@@ -154,7 +167,7 @@ _ESERA_, 6x oral presentations, 3x symposia
 
 - _Climate Action, Global Solutions to Local Problems_, invited lecturer to the workshop The Role of Climate Scientists in Society, Geophysical Institute, **University of Bergen**, 2022
 
-### Workshop
+### Workshops
 
 #### 2025
 
