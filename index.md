@@ -22,15 +22,15 @@ In my research, I develop methods to quantify characteristics of knowledge and u
 # 1. Research (Publications, Projects)
 
 ## Publications
-**Weihs, J.-P.**, Euler, E., Gjerde, V., & Drange, H. (2025). Exploration of Troublesome and Threshold Concepts in Cloud Microphysics. _Journal of Geoscience Education_. [Link](https://doi.org/10.1080/10899995.2024.2446022) 
+**Weihs, J.-P.**, Euler, E., Gjerde, V., & Drange, H. (2025). Exploration of Troublesome and Threshold Concepts in Cloud Microphysics. _Journal of Geoscience Education_. [Link](https://doi.org/10.1080/10899995.2024.2446022).
 
-**Weihs, J.-P.**, & Drange, H. (2025). Représenter et analyser la compréhension conceptuelle de la physique des nuages à l'aide de la théorie des graphes. In V. Munier & M Bächtold (Eds.), _Actes des XIIIe Rencontres scientifiques de l'ARDIST_, 4-7 juin 2024, Montpellier (p. 97-112). Éditions de l'ARDIST. [Link](https://ardist2024.sciencesconf.org/data/pages/Actes_13e_Rencontres_ARDiST.pdf)
+**Weihs, J.-P.**, & Drange, H. (2025). Représenter et analyser la compréhension conceptuelle de la physique des nuages à l'aide de la théorie des graphes. In V. Munier & M Bächtold (Eds.), _Actes des XIIIe Rencontres scientifiques de l'ARDIST_, 4-7 juin 2024, Montpellier (p. 97-112). Éditions de l'ARDIST. [Link](https://ardist2024.sciencesconf.org/data/pages/Actes_13e_Rencontres_ARDiST.pdf).
 
 **Weihs, J.-P.** & Lid, D.O. (2025). Improving students’ programming skills through Collaborative Scientific Python. In R. Lyng & S. Cotner (Eds.), _Conference proceedings - MNT-konferansen 2025_. Nordic Journal of STEM Education. 9(2): 383-390. [Link](https://doi.org/10.5324/njsteme.v9i2.6403).
 
-**Weihs, J-P.**, Weihs, A., Gjerde, V., & Drange, H. (in review) _Unsupervised and semi-supervised clustering methods to identify and refine participant experience levels in educational research_. [Link](https://arxiv.org/abs/2411.06479) (preprint)
+**Weihs, J-P.**, Weihs, A., Gjerde, V., & Drange, H. (in review) _Unsupervised and semi-supervised clustering methods to identify and refine participant experience levels in educational research_. [Link](https://arxiv.org/abs/2411.06479) (preprint).
 
-**Weihs, J.-P.**, Gjerde, V., & Drange, H. (in review). _From Novice to Expert in Cloud Physics: a Graph-Based Analysis of Learner Conceptual Understanding_. [Link](https://arxiv.org/abs/2411.06479) (preprint)
+**Weihs, J.-P.**, Gjerde, V., & Drange, H. (in review). _From Novice to Expert in Cloud Physics: a Graph-Based Analysis of Learner Conceptual Understanding_. [Link](https://arxiv.org/abs/2411.06479) (preprint).
 
 Gya, R., Boge, C., Dahl, T., Bergstrøm-Hansen, N., Førland, O., Holtermann, K., Stabell, E., **Weihs, J.-P.**, et al. (submitted). _From student involvement to students-as-partners – evidence from nine Norwegian Centres for Excellence in Education_.
 
@@ -50,7 +50,7 @@ Ramesh, H., **Weihs, J.-P.**, & Madan, G. _'Blown away': Impact of Zonal Winds C
 
 ### Unpublished work
 
-**Weihs, J.-P.** (2019). _Interaction of surface waves with sea-ice in the marginal ice zone_. NTNU. [Link](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2634446/no.ntnu:inspera:43157182:37763738.pdf) (Master's thesis)
+**Weihs, J.-P.** (2019). _Interaction of surface waves with sea-ice in the marginal ice zone_. NTNU. [Link](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2634446/no.ntnu:inspera:43157182:37763738.pdf) (Master's thesis).
 
 ## Projects
 
@@ -152,7 +152,7 @@ Ramesh, H., **Weihs, J.-P.**, & Madan, G. _'Blown away': Impact of Zonal Winds C
 
 # 3. Academic Service
 
-## Selected Symposiums
+## Selected Symposium Chairing
 
 #### 2025
 - _Network analysis in science education research: analysing opinions, concepts and representations to inform learning and instruction_ (chair), **ESERA**, Copenhagen (DK) (with O. Marshall, C. Thurn, S. Wagner & M. Turkkila)
@@ -169,13 +169,13 @@ _ESERA_, 6x oral presentations, 3x symposia
 ## Scientific Acknowledgements
 
 #### 2026
-Proske, U. & Staab, M. (in review). _Hello world! Teaching an interdisciplinary understanding of climate modelling._ [Link](https://doi.org/10.5194/egusphere-2025-6313) (preprint) (for feedback on educational research)
+Proske, U. & Staab, M. (in review). _Hello world! Teaching an interdisciplinary understanding of climate modelling._ [Link](https://doi.org/10.5194/egusphere-2025-6313) (preprint). (for feedback on educational research)
 
 #### 2025
-Årvik, A. & Thielemann Try, T. (2025). Study techniques in Student Handbook of the Geophysical Institute (in Norwegian). CoCreatingGFI. [Link](https://cocreatinggfi.w.uib.no/studenthandboka/) (for contribution to learning recommendations)
+Årvik, A. & Thielemann Try, T. (2025). Study techniques in Student Handbook of the Geophysical Institute (in Norwegian). CoCreatingGFI. [Link](https://cocreatinggfi.w.uib.no/studenthandboka/). (for contribution to learning recommendations)
 
 #### 2023
-Hartz, W. et al. (2023). Levels and distribution profiles of Per-and Polyfluoroalkyl Substances (PFAS) in a high Arctic Svalbard ice core. _Science of the total environment_. [Link](https://doi.org/10.1016/j.scitotenv.2023.161830) (for contribution to data collection)
+Hartz, W. et al. (2023). Levels and distribution profiles of Per-and Polyfluoroalkyl Substances (PFAS) in a high Arctic Svalbard ice core. _Science of the total environment_. [Link](https://doi.org/10.1016/j.scitotenv.2023.161830). (for contribution to data collection)
 
 <!--
 ## Education
